@@ -18,3 +18,8 @@ When you buy the full ZIP package on Codester, you get:
 - 📦 **Full Source Code ZIP:** Production-ready and deployable in minutes.
 
 👉 **[Get Full Commercial License ($49)](YOUR_CODESTER_LINK_HERE)**
+## 🚀 Get the Full Commercial Source Code
+
+To get access to the full production codebase (including Stripe payments, Prisma ORM, and AI API endpoints):
+
+👉 **[Buy Full Source Code on Codester ($49)](#)**
